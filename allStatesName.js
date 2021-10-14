@@ -103,18 +103,18 @@ const states = [
 //     "stateCode": "25",
 //     "stateName": "NASARAWA"
 //   },
-  {
-    "stateCode": "26",
-    "stateName": "NIGER"
-  },
-  {
-    "stateCode": "27",
-    "stateName": "OGUN"
-  },
-  {
-    "stateCode": "28",
-    "stateName": "ONDO"
-  },
+//   {
+//     "stateCode": "26",
+//     "stateName": "NIGER"
+//   },
+//   {
+//     "stateCode": "27",
+//     "stateName": "OGUN"
+//   },
+//   {
+//     "stateCode": "28",
+//     "stateName": "ONDO"
+//   },
   {
     "stateCode": "29",
     "stateName": "OSUN"
