@@ -27,14 +27,14 @@ async function getAllUnit() {
 
         for(const lg in data1) {
             console.log(lg, 'here---------')
-            const { id: lgId, name: lgName } = data1[lg]
+            const { abbreviation: lgId, name: lgName } = data1[lg]
             const urlLg = 'https://www.inecnigeria.org/wp-content/themes/independent-national-electoral-commission/custom/views/wardView.php';
 
             const formDataWard = new FormData()
             formDataWard.append('lga_id', lgId);
             formDataWard.append('state_id', stateCode)
 
-
+            console.log(lgId, stateCode, 'wahala group')
             const wards = await axios.post(urlLg, formDataWard, {         
                 httpsAgent,     
                 headers: { 
@@ -42,7 +42,7 @@ async function getAllUnit() {
             }})
 
             let { data: data2 } = wards
-
+            console.log(data2, 'data is here', '==========')
             for(const ward in data2) {
                 console.log(ward, 'here 3 !!!!!!!')
                 const urlWard = 'https://www.inecnigeria.org/wp-content/themes/independent-national-electoral-commission/custom/views/pollingView.php';

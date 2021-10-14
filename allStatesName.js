@@ -1,12 +1,12 @@
 const states = [
-  {
-    "stateCode": "1",
-    "stateName": "ABIA"
-  },
-  {
-    "stateCode": "2",
-    "stateName": "ADAMAWA"
-  },
+//   {
+//     "stateCode": "1",
+//     "stateName": "ABIA"
+//   },
+//   {
+//     "stateCode": "2",
+//     "stateName": "ADAMAWA"
+//   },
   {
     "stateCode": "3",
     "stateName": "AKWA IBOM"
