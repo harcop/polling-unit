@@ -7,30 +7,30 @@ const states = [
 //     "stateCode": "2",
 //     "stateName": "ADAMAWA"
 //   },
-  {
-    "stateCode": "3",
-    "stateName": "AKWA IBOM"
-  },
-  {
-    "stateCode": "4",
-    "stateName": "ANAMBRA"
-  },
-  {
-    "stateCode": "5",
-    "stateName": "BAUCHI"
-  },
-  {
-    "stateCode": "6",
-    "stateName": "BAYELSA"
-  },
-  {
-    "stateCode": "7",
-    "stateName": "BENUE"
-  },
-  {
-    "stateCode": "8",
-    "stateName": "BORNO"
-  },
+//   {
+//     "stateCode": "3",
+//     "stateName": "AKWA IBOM"
+//   },
+//   {
+//     "stateCode": "4",
+//     "stateName": "ANAMBRA"
+//   },
+//   {
+//     "stateCode": "5",
+//     "stateName": "BAUCHI"
+//   },
+//   {
+//     "stateCode": "6",
+//     "stateName": "BAYELSA"
+//   },
+//   {
+//     "stateCode": "7",
+//     "stateName": "BENUE"
+//   },
+//   {
+//     "stateCode": "8",
+//     "stateName": "BORNO"
+//   },
   {
     "stateCode": "9",
     "stateName": "CROSS RIVER"
