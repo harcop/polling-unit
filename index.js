@@ -61,7 +61,7 @@ async function getAllUnit() {
                 const { data: data3 } = units
 
                 for(const unit in data3) {
-                    if(unit) {
+                    if(data3[unit]) {
                         console.log('===',unit, 'here unit')
                         const { name: unitName, units: unitId, remark } = data3[unit]
                         const poll = {
