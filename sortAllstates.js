@@ -49,11 +49,11 @@ function splitState() {
     const stateSplit = state.split('<option value=')[1].split('>');
     const [stateCode, stateName] = stateSplit
     allStateCode.push({
-      stateCode: Number(stateCode.split('"')[1]),
+      stateCode: stateCode.split('"')[1],
       stateName
     })
   }
   return allStateCode
 }
 const state = splitState();
-fs.writeFileSync('./allStates', JSON.stringify(state))
+fs.writeFileSync('./sort/allStates', JSON.stringify(state))
