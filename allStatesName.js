@@ -31,10 +31,10 @@ const states = [
 //     "stateCode": "8",
 //     "stateName": "BORNO"
 //   },
-  {
-    "stateCode": "9",
-    "stateName": "CROSS RIVER"
-  },
+//   {
+//     "stateCode": "9",
+//     "stateName": "CROSS RIVER"
+//   },
   {
     "stateCode": "10",
     "stateName": "DELTA"

@@ -74,6 +74,7 @@ async function getAllUnit() {
                         }
                         console.log(poll)
                         allData.push(poll)
+                        fs.writeFileSync(`./unitData/${stateName}`, JSON.stringify(allData))
                     }
                 }
             }
