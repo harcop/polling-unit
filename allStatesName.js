@@ -55,34 +55,34 @@ const states = [
 //     "stateCode": "14",
 //     "stateName": "ENUGU"
 //   },
-  {
-    "stateCode": "37",
-    "stateName": "FEDERAL CAPITAL TERRITORY"
-  },
-  {
-    "stateCode": "15",
-    "stateName": "GOMBE"
-  },
-  {
-    "stateCode": "16",
-    "stateName": "IMO"
-  },
-  {
-    "stateCode": "17",
-    "stateName": "JIGAWA"
-  },
-  {
-    "stateCode": "18",
-    "stateName": "KADUNA"
-  },
-  {
-    "stateCode": "19",
-    "stateName": "KANO"
-  },
-  {
-    "stateCode": "20",
-    "stateName": "KATSINA"
-  },
+//   {
+//     "stateCode": "37",
+//     "stateName": "FEDERAL CAPITAL TERRITORY"
+//   },
+//   {
+//     "stateCode": "15",
+//     "stateName": "GOMBE"
+//   },
+//   {
+//     "stateCode": "16",
+//     "stateName": "IMO"
+//   },
+//   {
+//     "stateCode": "17",
+//     "stateName": "JIGAWA"
+//   },
+//   {
+//     "stateCode": "18",
+//     "stateName": "KADUNA"
+//   },
+//   {
+//     "stateCode": "19",
+//     "stateName": "KANO"
+//   },
+//   {
+//     "stateCode": "20",
+//     "stateName": "KATSINA"
+//   },
   {
     "stateCode": "21",
     "stateName": "KEBBI"
