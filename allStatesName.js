@@ -35,26 +35,26 @@ const states = [
 //     "stateCode": "9",
 //     "stateName": "CROSS RIVER"
 //   },
-  {
-    "stateCode": "10",
-    "stateName": "DELTA"
-  },
-  {
-    "stateCode": "11",
-    "stateName": "EBONYI"
-  },
-  {
-    "stateCode": "12",
-    "stateName": "EDO"
-  },
-  {
-    "stateCode": "13",
-    "stateName": "EKITI"
-  },
-  {
-    "stateCode": "14",
-    "stateName": "ENUGU"
-  },
+//   {
+//     "stateCode": "10",
+//     "stateName": "DELTA"
+//   },
+//   {
+//     "stateCode": "11",
+//     "stateName": "EBONYI"
+//   },
+//   {
+//     "stateCode": "12",
+//     "stateName": "EDO"
+//   },
+//   {
+//     "stateCode": "13",
+//     "stateName": "EKITI"
+//   },
+//   {
+//     "stateCode": "14",
+//     "stateName": "ENUGU"
+//   },
   {
     "stateCode": "37",
     "stateName": "FEDERAL CAPITAL TERRITORY"
