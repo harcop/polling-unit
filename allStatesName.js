@@ -83,26 +83,26 @@ const states = [
 //     "stateCode": "20",
 //     "stateName": "KATSINA"
 //   },
-  {
-    "stateCode": "21",
-    "stateName": "KEBBI"
-  },
-  {
-    "stateCode": "22",
-    "stateName": "KOGI"
-  },
-  {
-    "stateCode": "23",
-    "stateName": "KWARA"
-  },
-  {
-    "stateCode": "24",
-    "stateName": "LAGOS"
-  },
-  {
-    "stateCode": "25",
-    "stateName": "NASARAWA"
-  },
+//   {
+//     "stateCode": "21",
+//     "stateName": "KEBBI"
+//   },
+//   {
+//     "stateCode": "22",
+//     "stateName": "KOGI"
+//   },
+//   {
+//     "stateCode": "23",
+//     "stateName": "KWARA"
+//   },
+//   {
+//     "stateCode": "24",
+//     "stateName": "LAGOS"
+//   },
+//   {
+//     "stateCode": "25",
+//     "stateName": "NASARAWA"
+//   },
   {
     "stateCode": "26",
     "stateName": "NIGER"
