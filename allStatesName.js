@@ -127,22 +127,22 @@ const states = [
 //     "stateCode": "31",
 //     "stateName": "PLATEAU"
 //   },
-  {
-    "stateCode": "32",
-    "stateName": "RIVERS"
-  },
-  {
-    "stateCode": "33",
-    "stateName": "SOKOTO"
-  },
-  {
-    "stateCode": "34",
-    "stateName": "TARABA"
-  },
-  {
-    "stateCode": "35",
-    "stateName": "YOBE"
-  },
+//   {
+//     "stateCode": "32",
+//     "stateName": "RIVERS"
+//   },
+//   {
+//     "stateCode": "33",
+//     "stateName": "SOKOTO"
+//   },
+//   {
+//     "stateCode": "34",
+//     "stateName": "TARABA"
+//   },
+//   {
+//     "stateCode": "35",
+//     "stateName": "YOBE"
+//   },
   {
     "stateCode": "36",
     "stateName": "ZAMFARA"
