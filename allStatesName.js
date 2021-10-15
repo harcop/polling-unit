@@ -131,18 +131,18 @@ const states = [
 //     "stateCode": "32",
 //     "stateName": "RIVERS"
 //   },
-//   {
-//     "stateCode": "33",
-//     "stateName": "SOKOTO"
-//   },
-//   {
-//     "stateCode": "34",
-//     "stateName": "TARABA"
-//   },
-//   {
-//     "stateCode": "35",
-//     "stateName": "YOBE"
-//   },
+  {
+    "stateCode": "33",
+    "stateName": "SOKOTO"
+  },
+  {
+    "stateCode": "34",
+    "stateName": "TARABA"
+  },
+  {
+    "stateCode": "35",
+    "stateName": "YOBE"
+  },
   {
     "stateCode": "36",
     "stateName": "ZAMFARA"
