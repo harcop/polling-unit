@@ -119,14 +119,14 @@ const states = [
     "stateCode": "29",
     "stateName": "OSUN"
   },
-  {
-    "stateCode": "30",
-    "stateName": "OYO"
-  },
-  {
-    "stateCode": "31",
-    "stateName": "PLATEAU"
-  },
+//   {
+//     "stateCode": "30",
+//     "stateName": "OYO"
+//   },
+//   {
+//     "stateCode": "31",
+//     "stateName": "PLATEAU"
+//   },
   {
     "stateCode": "32",
     "stateName": "RIVERS"
