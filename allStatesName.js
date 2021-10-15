@@ -1,20 +1,20 @@
 const states = [
-//   {
-//     "stateCode": "1",
-//     "stateName": "ABIA"
-//   },
-//   {
-//     "stateCode": "2",
-//     "stateName": "ADAMAWA"
-//   },
+  {
+    "stateCode": "1",
+    "stateName": "ABIA"
+  },
+  {
+    "stateCode": "2",
+    "stateName": "ADAMAWA"
+  },
 //   {
 //     "stateCode": "3",
 //     "stateName": "AKWA IBOM"
 //   },
-//   {
-//     "stateCode": "4",
-//     "stateName": "ANAMBRA"
-//   },
+  {
+    "stateCode": "4",
+    "stateName": "ANAMBRA"
+  },
 //   {
 //     "stateCode": "5",
 //     "stateName": "BAUCHI"
@@ -143,10 +143,10 @@ const states = [
 //     "stateCode": "35",
 //     "stateName": "YOBE"
 //   },
-  {
-    "stateCode": "36",
-    "stateName": "ZAMFARA"
-  }
+//   {
+//     "stateCode": "36",
+//     "stateName": "ZAMFARA"
+//   }
 ]
 
 module.exports = {
