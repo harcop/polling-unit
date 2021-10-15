@@ -1,8 +1,8 @@
 const states = [
-  {
-    "stateCode": "1",
-    "stateName": "ABIA"
-  },
+//   {
+//     "stateCode": "1",
+//     "stateName": "ABIA"
+//   },
   {
     "stateCode": "2",
     "stateName": "ADAMAWA"
