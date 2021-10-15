@@ -115,10 +115,10 @@ const states = [
 //     "stateCode": "28",
 //     "stateName": "ONDO"
 //   },
-  {
-    "stateCode": "29",
-    "stateName": "OSUN"
-  },
+//   {
+//     "stateCode": "29",
+//     "stateName": "OSUN"
+//   },
 //   {
 //     "stateCode": "30",
 //     "stateName": "OYO"
