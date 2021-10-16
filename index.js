@@ -23,8 +23,7 @@ async function getAllUnit() {
             headers: { 
             ...formData.getHeaders()
           }})
-          let { data: data1 } = lgs
-
+        let { data: data1 } = lgs
         for(const lg in data1) {
             console.log(lg, 'here---------')
             const { abbreviation: lgId, name: lgName } = data1[lg]
