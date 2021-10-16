@@ -19,14 +19,14 @@ const states = [
 //     "stateCode": "5",
 //     "stateName": "BAUCHI"
 //   },
-  {
-    "stateCode": "6",
-    "stateName": "BAYELSA"
-  },
-  {
-    "stateCode": "7",
-    "stateName": "BENUE"
-  },
+//   {
+//     "stateCode": "6",
+//     "stateName": "BAYELSA"
+//   },
+  // {
+  //   "stateCode": "7",
+  //   "stateName": "BENUE"
+  // },
   {
     "stateCode": "8",
     "stateName": "BORNO"
